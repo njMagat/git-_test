@@ -1,1 +1,4 @@
 trying to put ths fle in stage area in git hehe
+
+
+# trying another to save and push it to git
